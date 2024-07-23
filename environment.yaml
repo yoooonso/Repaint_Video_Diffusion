@@ -3,12 +3,14 @@ channels:
   - nvidia
   - pytorch
 dependencies:
-  - python=3.8.18
+  - python=3.8
   - pip
-  - pytorch=2.2.1=py3.8_cuda11.8_cudnn8.7.0_0
-  - torchvision=0.17.1=py38_cu118
-  - torchaudio=2.2.1=py38_cu118
+  - pytorch=2.2.1
+  - torchvision=0.17.1
+  - torchaudio=2.2.1
   - pip:
       - diffusers==0.27.0
       - transformers
       - opencv-python
+      - accelerate
+      - scikit-image
