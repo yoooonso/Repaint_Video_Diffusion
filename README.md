@@ -65,3 +65,5 @@ Options:
 ```
 
 ### Results
+
+![Example 1](assets/example1.gif) ![Example 2](assets/example2.gif) ![Example 3](assets/example3.gif)
