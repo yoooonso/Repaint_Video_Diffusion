@@ -70,15 +70,15 @@ Options:
 
 <p align="center">
   <figure style="display:inline-block">
-    <img src="gifs/example3.gif" alt="Example 3" width="250"/>
+    <img src="assets/example3.gif" alt="Example 3" width="250"/>
     <figcaption style="text-align:center">HCI-new</figcaption>
   </figure>
   <figure style="display:inline-block">
-    <img src="gifs/example1.gif" alt="Example 1" width="250"/>
+    <img src="assets/example1.gif" alt="Example 1" width="250"/>
     <figcaption style="text-align:center">HCI-old</figcaption>
   </figure>
   <figure style="display:inline-block">
-    <img src="gifs/example2.gif" alt="Example 2" width="250"/>
+    <img src="assets/example2.gif" alt="Example 2" width="250"/>
     <figcaption style="text-align:center">STFGantry</figcaption>
   </figure>
 </p>
