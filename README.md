@@ -68,17 +68,41 @@ Options:
 
 ### 5X5 LF Results
 
-<p align="center">
-  <figure style="display:inline-block">
-    <img src="assets/example3.gif" alt="Example 3" width="250"/>
-    <figcaption style="text-align:center">HCI-new</figcaption>
-  </figure>
-  <figure style="display:inline-block">
-    <img src="assets/example1.gif" alt="Example 1" width="250"/>
-    <figcaption style="text-align:center">HCI-old</figcaption>
-  </figure>
-  <figure style="display:inline-block">
-    <img src="assets/example2.gif" alt="Example 2" width="250"/>
-    <figcaption style="text-align:center">STFGantry</figcaption>
-  </figure>
-</p>
+<table>
+  <tr>
+    <th style="text-align:center">HCI-new</th>
+    <th style="text-align:center">HCI-old</th>
+    <th style="text-align:center">STFGantry</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="assets/example3.gif" alt="Example 3" width="250"/>
+    </td>
+    <td style="text-align:center">
+      <img src="assets/example1.gif" alt="Example 1" width="250"/>
+    </td>
+    <td style="text-align:center">
+      <img src="assets/example2.gif" alt="Example 2" width="250"/>
+    </td>
+  </tr>
+</table>
+
+### LF Results from a general scene
+
+<table>
+  <tr>
+    <th style="text-align:center">Synthetic LF</th>
+    <th style="text-align:center">Depth Estimation from LF</th>
+    <th style="text-align:center">Refocusing from LF</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="assets/example4.gif" alt="Example 4" width="250"/>
+    </td>
+    <td style="text-align:center">
+      <img src="assets/example5.png" alt="Example 5" width="250"/>
+    </td>
+    <td style="text-align:center">
+      <img src="assets/example6.gif" alt="Example 6" width="250"/>
+    </td>
+  </tr>
