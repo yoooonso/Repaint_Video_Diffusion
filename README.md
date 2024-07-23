@@ -1,4 +1,4 @@
-# Repaint_Video_Diffusion
+<h1 align="center">Geometrically Consistent Light Field Synthesis using Repaint Video Diffusion Model</h1>
 
 This repository is the official implementation of [Geometrically Consistent Light Field Synthesis using Repaint Video Diffusion Model]() (*Note: The link is still being prepared*)
 
@@ -37,11 +37,11 @@ input/
 ### Inference
 To generate Light Field images from the pretrained models, run the following command:
 
-```shell
+```
 python inference_LF.py
 
 Options:
-    --height                Height of the output images (default: 512)
+    **--height**                Height of the output images (default: 512)
     --width                 Width of the output images (default: 512)
     --grid_size             Size of the grid for light field rendering (default: 5)
     --ckpt                  Path to the model checkpoint (default: "./pretrained_weights")
