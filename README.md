@@ -66,4 +66,8 @@ Options:
 
 ### Results
 
-![Example 1](assets/example1.gif) ![Example 2](assets/example2.gif) ![Example 3](assets/example3.gif)
+<p align="center">
+  <img src="assets/example1.gif" alt="Example 1" width="300"/>
+  <img src="assets/example2.gif" alt="Example 2" width="300"/>
+  <img src="assets/example3.gif" alt="Example 3" width="300"/>
+</p>
