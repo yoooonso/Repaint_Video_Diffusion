@@ -3,9 +3,9 @@
 This repository is the official implementation of [Geometrically Consistent Light Field Synthesis using Repaint Video Diffusion Model]() (*Note: The link is still being prepared*)
 
 <p align="center"><img src="./assets/teaser.png" width="100%"></p>
+
 > **Geometrically Consistent Light Field Synthesis using Repaint Video Diffusion Model** <br>
 > Soyoung Yoon, In Kyu Park
-
 **Abstract.** *We propose to repaint an image-to-video diffusion model to synthesize light fields that are geometrically consistent. Despite significant advancements in diffusion models for novel view synthesis, applying these models to generate a light field, i.e. fronto-parallel multiple views, has been challenging due to persistent visual and geometric consistency issues. By utilizing advances in video diffusion, we extend the temporal consistency of video diffusion to the geometric consistency of multi-view settings. By incorporating multi-view data with camera parameters, we fine-tune the image-to-video diffusion model framework for optimized multi-view diffusion. Furthermore, we propose integrating a repaint method during the sampling (denoising process) to achieve enhanced accurate camera control in multi-view diffusion, enhancing consistency by maintaining the known region in the input image. This approach enables the application of light field synthesis that requires precise camera control and demonstrates the capability of diffusion models to generate light fields with wide baselines, leveraging their unique generative power.*
 
 ## Installation
