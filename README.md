@@ -21,7 +21,7 @@ conda activate RepaintSVD
 ## Pretrained Weights & Data
 ### Pretrained Weights
 You can download the pretrained weights from the following link:
-[Link]() (*Note: The link is still being prepared*)
+[Link](https://huggingface.co/yoooonso/RepaintSVD/tree/main)
 ### Data Preparation
 To run the inference script, you need to prepare the input data as follows:
 - Place your input images in the input folder
